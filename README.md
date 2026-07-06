@@ -20,13 +20,6 @@ Upload a CSV. Get automatic charts, an AI-generated executive summary, anomaly d
 - **Grounded Q&A chat** — ask questions about your data in plain English, answered from real computed stats, not guesses
 - **Built-in sample dataset** — try it instantly with no upload required
 
-## 🖼️ Screenshots
-
-*(Add a screenshot or two here once you have the app running — this is one of the first things recruiters look at.)*
-
-```
-![Dashboard screenshot](./docs/screenshot-dashboard.png)
-```
 
 ## 🧠 Why this project
 
